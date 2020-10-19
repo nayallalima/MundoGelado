@@ -1,6 +1,6 @@
 # MundoGelado
 
 
-![](.Pictures/mundoGelado.gif)
+![](./Pictures/mundoGelado.gif)
 
-![](.Pictures/mundoGeladoR.gif)
+![](./Pictures/mundoGeladoR.gif)
